@@ -8,9 +8,10 @@ projects and long term work.
 ## About my work
 
 I work mostly with technical SEO and web development. On Upwork, I have 
-a large amount of positive feedback from clients, including several 
-large and established businesses. I have strong experience working with 
-website themes and large, complex projects, not just small builds.
+completed 472 jobs and worked more than 8,200 hours, with a 4.7 star rating 
+from 416 reviews. I have worked with several large and established 
+businesses. I have strong experience working with website themes and 
+large, complex projects, not just small builds.
 
 I work across all the major platforms, including WordPress, Shopify, 
 BigCommerce, Wix, and Squarespace. Whether a site is built on a CMS or 
