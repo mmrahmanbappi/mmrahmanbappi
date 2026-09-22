@@ -19,9 +19,9 @@ getting indexed the way they should. I also look at site speed and
 Core Web Vitals, since slow pages lose both rankings and visitors.
 
 I work across all the major platforms, including WordPress, Shopify, 
-BigCommerce, Wix, and Squarespace. Whether a site is built on a CMS or 
-fully custom, I can go in, find the technical issues, and fix them 
-without breaking what already works.
+BigCommerce, Wix, and Squarespace. On a CMS or a fully custom site, I 
+can go in, find the technical issues, and fix them without breaking 
+what already works.
 
 One thing clients often notice about my work is that I can take a big, 
 slow moving project and turn it into something smaller and faster, using 
@@ -56,6 +56,15 @@ Building and maintaining SaaS products from the ground up.
 
 Taking large or messy projects and reorganizing them into something 
 cleaner and easier to manage.
+
+## Free projects
+
+Free, open source resources I build and maintain, all MIT licensed:
+
+- **[Free HTML Templates](https://github.com/mmrahmanbappi/free-html-templates)**, 50 single-file website templates for business, SaaS, dashboards, online stores, portfolios and restaurants. [Live gallery](https://mmrahmanbappi.github.io/free-html-templates/)
+- **[100 CSS Designs](https://github.com/mmrahmanbappi/100-css-designs)**, trending CSS design styles with live demos. [Live demos](https://mmrahmanbappi.github.io/100-css-designs/)
+- **[Vanilla JavaScript Projects](https://github.com/mmrahmanbappi/vanilla-javascript-projects)**, free JavaScript projects with live demos. [Live demos](https://mmrahmanbappi.github.io/vanilla-javascript-projects/)
+- **[SEO Tools](https://github.com/mmrahmanbappi/seo-tools)**, free Chrome extensions for technical SEO checks.
 
 ## Contact
 
