@@ -13,6 +13,11 @@ from 416 reviews. I have worked with several large and established
 businesses. I have strong experience working with website themes and 
 large, complex projects, not just small builds.
 
+A big part of my work is fixing what shows up in Google Search Console, 
+things like crawl errors, indexing issues, and pages that are not 
+getting indexed the way they should. I also look at site speed and 
+Core Web Vitals, since slow pages lose both rankings and visitors.
+
 I work across all the major platforms, including WordPress, Shopify, 
 BigCommerce, Wix, and Squarespace. Whether a site is built on a CMS or 
 fully custom, I can go in, find the technical issues, and fix them 
@@ -35,8 +40,11 @@ actually works well once it is done, not just handed over.
 
 ## What I can help with
 
-Technical SEO audits and fixes, including crawl issues, indexing 
-problems, site structure, and speed.
+Technical SEO audits, including crawl errors, indexing issues, site 
+structure, and Google Search Console problems.
+
+Site speed and Core Web Vitals, finding what is slowing a page down and 
+fixing it.
 
 SEO work across WordPress, Shopify, BigCommerce, Wix, Squarespace, and 
 other CMS platforms.
