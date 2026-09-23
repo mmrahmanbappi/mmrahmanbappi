@@ -70,7 +70,7 @@ Free, open source resources I build and maintain:
 - **[100 Vanilla JavaScript Projects](https://github.com/mmrahmanbappi/100-vanilla-javascript-projects)**, small projects in plain JavaScript. [Live demos](https://mmrahmanbappi.github.io/100-vanilla-javascript-projects/)
 - **[Free SEO Chrome Extensions](https://github.com/mmrahmanbappi/chrome-extensions)**, Chrome extensions for technical SEO checks. [Website](https://mmrahmanbappi.github.io/chrome-extensions/)
 
-Most projects use the MIT license. See each repository for details.
+Every project uses the MIT license, free for personal and business use.
 
 All projects in one place: https://mmrahmanbappi.github.io/
 
