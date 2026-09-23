@@ -62,6 +62,7 @@ cleaner and easier to manage.
 Free, open source resources I build and maintain:
 
 - **[Tantu C Framework](https://github.com/mmrahmanbappi/tantu-c-framework)**, a free website builder and web framework written in C. Turn Markdown into a fast website with SEO built in. [Website](https://mmrahmanbappi.github.io/tantu-c-framework/)
+- **[100 Free AI UI Components](https://github.com/mmrahmanbappi/100-free-ai-ui-components)**, prompt boxes, thinking states, token meters, answer ratings and agent tools for AI apps. One file each. [Live demos](https://mmrahmanbappi.github.io/100-free-ai-ui-components/)
 - **[100 Free Admin Dashboards](https://github.com/mmrahmanbappi/100-free-admin-dashboards)**, complete dashboard templates with more than 30 pages each, light and dark themes. [Live demos](https://mmrahmanbappi.github.io/100-free-admin-dashboards/)
 - **[100 Free HTML Templates](https://github.com/mmrahmanbappi/100-free-html-templates)**, one-file website templates for business, SaaS, stores, portfolios and more. [Live gallery](https://mmrahmanbappi.github.io/100-free-html-templates/)
 - **[100 CSS Designs](https://github.com/mmrahmanbappi/100-css-designs)**, trending CSS design styles with live demos. [Live demos](https://mmrahmanbappi.github.io/100-css-designs/)
