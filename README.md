@@ -59,12 +59,20 @@ cleaner and easier to manage.
 
 ## Free projects
 
-Free, open source resources I build and maintain, all MIT licensed:
+Free, open source resources I build and maintain:
 
-- **[Free HTML Templates](https://github.com/mmrahmanbappi/free-html-templates)**, 50 single-file website templates for business, SaaS, dashboards, online stores, portfolios and restaurants. [Live gallery](https://mmrahmanbappi.github.io/free-html-templates/)
+- **[Tantu C Framework](https://github.com/mmrahmanbappi/tantu-c-framework)**, a free website builder and web framework written in C. Turn Markdown into a fast website with SEO built in. [Website](https://mmrahmanbappi.github.io/tantu-c-framework/)
+- **[100 Free Admin Dashboards](https://github.com/mmrahmanbappi/100-free-admin-dashboards)**, complete dashboard templates with more than 30 pages each, light and dark themes. [Live demos](https://mmrahmanbappi.github.io/100-free-admin-dashboards/)
+- **[100 Free HTML Templates](https://github.com/mmrahmanbappi/100-free-html-templates)**, one-file website templates for business, SaaS, stores, portfolios and more. [Live gallery](https://mmrahmanbappi.github.io/100-free-html-templates/)
 - **[100 CSS Designs](https://github.com/mmrahmanbappi/100-css-designs)**, trending CSS design styles with live demos. [Live demos](https://mmrahmanbappi.github.io/100-css-designs/)
-- **[Vanilla JavaScript Projects](https://github.com/mmrahmanbappi/vanilla-javascript-projects)**, free JavaScript projects with live demos. [Live demos](https://mmrahmanbappi.github.io/vanilla-javascript-projects/)
-- **[SEO Tools](https://github.com/mmrahmanbappi/seo-tools)**, free Chrome extensions for technical SEO checks.
+- **[100 Free Data Charts](https://github.com/mmrahmanbappi/100-free-data-charts)**, charts in plain HTML, CSS and JavaScript with no chart library. [Live demos](https://mmrahmanbappi.github.io/100-free-data-charts/)
+- **[100 Free 404 Pages](https://github.com/mmrahmanbappi/100-free-404-pages)**, friendly error pages, one file each. [Live gallery](https://mmrahmanbappi.github.io/100-free-404-pages/)
+- **[100 Vanilla JavaScript Projects](https://github.com/mmrahmanbappi/100-vanilla-javascript-projects)**, small projects in plain JavaScript. [Live demos](https://mmrahmanbappi.github.io/100-vanilla-javascript-projects/)
+- **[Free SEO Chrome Extensions](https://github.com/mmrahmanbappi/chrome-extensions)**, Chrome extensions for technical SEO checks. [Website](https://mmrahmanbappi.github.io/chrome-extensions/)
+
+Most projects use the MIT license. See each repository for details.
+
+All projects in one place: https://mmrahmanbappi.github.io/
 
 ## Contact
 
